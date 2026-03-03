@@ -1,64 +1,94 @@
-# Hi there, welcome to SnapOrSlap! 👋📸
+<!-- ========= SnapOrSlap Organization Profile README ========= -->
+<a id="top"></a>
 
-> **"Dare to Snap, or take the Slap!"**
->
-> *The ultimate social challenge platform where proof is everything.*
-
----
-
-### About The Project
-
-**SnapOrSlap** is a mobile application designed to gamify social interactions through real-world challenges. Users can create dares, challenge friends, and provide photo/video proof of completion. Failure to complete a challenge results in a "Slap" (social penalty score).
-
-**Current Phase:** 🚀 `MVP Development` (Assignment 1)
-
----
-
-### Tech Stack & Tools
-
-We use modern technologies to build a scalable and performant application.
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Mobile App** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) |
-| **Design** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
-| **Management** | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/github%20projects-181717.svg?style=flat-square&logo=github&logoColor=white) |
-
----
-
-### Quick Access (Important Links)
-
-For instructors and evaluators, please access our key resources here:
-
-* **[Main Repository (Source Code)](https://github.com/SnapOrSlap/snap-or-slap-mobile)**
-    * *Where the magic happens. Contains all mobile app source code.*
-* **[Project Documentation (Wiki)](https://github.com/SnapOrSlap/snap-or-slap-mobile/wiki)**
-    * *Full documentation including Market Research, User Flows, and MVP features.*
-* **[Scrum Board (Project Planning)](https://github.com/orgs/SnapOrSlap/projects/1)**
-    * *Track our Sprint progress and Backlog.*
-
----
-
-### The "SnapOrSlap" Team
-
-We are a group of passionate students from **[Tên Đại Học/Lớp]**.
-
-| Avatar | Name | Role | GitHub |
-| :---: | :--- | :--- | :--- |
-| <img src="https://github.com/USERNAME_LEADER.png" width="50" style="border-radius:50%"/> | **[Tên Leader]** | **Team Lead / Backend** | [@LeaderUser](https://github.com/LeaderUser) |
-| <img src="https://github.com/USERNAME_MEMBER1.png" width="50" style="border-radius:50%"/> | **[Tên Member 1]** | **Mobile Developer** | [@Member1](https://github.com/Member1) |
-| <img src="https://github.com/USERNAME_MEMBER2.png" width="50" style="border-radius:50%"/> | **[Tên Member 2]** | **UI/UX Designer & QA** | [@Member2](https://github.com/Member2) |
-| <img src="https://github.com/USERNAME_MEMBER3.png" width="50" style="border-radius:50%"/> | **[Tên Member 3]** | **Business Analyst** | [@Member3](https://github.com/Member3) |
-
----
-
-### GitHub Stats
-
-![SnapOrSlap's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeaderUser&show_icons=true&theme=gotham&hide_title=true&count_private=true&hide=contribs)
-*(Stats of the Team Leader or the Organization if available)*
-
----
 <div align="center">
-  <sub>Built with ❤️ by the SnapOrSlap Team. © 2024 All Rights Reserved.</sub>
+
+  <img src="https://raw.githubusercontent.com/snap-or-slap/.github/main/assets/logo.png" alt="SnapOrSlap Logo" width="140" />
+
+  # SnapOrSlap (SOS)
+
+  **Snap to prove — Slap to move**
+
+  *Tổ chức GitHub của dự án SnapOrSlap. Trang này là “landing page” tổng quan cho repo, team và workflow. Tài liệu chi tiết nằm trong Wiki của repo mobile.*
+
+  <br/>
+
+  <a href="https://github.com/snap-or-slap">Tổ chức</a>
+  •
+  <a href="https://github.com/snap-or-slap/snap-or-slap-mobile">Repo Mobile</a>
+  •
+  <a href="https://github.com/snap-or-slap/.github">Repo .github</a>
+
+</div>
+
+---
+
+## 1) Tài nguyên quan trọng (Quick Links)
+
+| Hạng mục | Link | Mục đích |
+|---|---|---|
+| **GitHub Organization** | https://github.com/snap-or-slap | Trang tổng của tổ chức |
+| **Mobile Repository (source code)** | https://github.com/snap-or-slap/snap-or-slap-mobile | Codebase chính (iOS/Android) |
+| **Wiki (Documentation)** | https://github.com/snap-or-slap/snap-or-slap-mobile/wiki | Báo cáo Assignment + tài liệu kỹ thuật |
+| **.github Repository** | https://github.com/snap-or-slap/.github | Org profile, templates, configs |
+
+---
+
+## 2) Nhóm phát triển (Team)
+
+### Danh sách thành viên (bảng tổng hợp)
+
+| STT | Họ và tên | MSSV | GitHub | Vai trò / Ghi chú |
+|---:|---|---:|---|---|
+| 1 | Nguyễn Lê Hoàng Phúc | 2212629 | https://github.com/Darius-UT | Leaders team (member duy nhất) |
+| 2 | Phan Lê Thiên | 2313221 | https://github.com/ido241117 | Member |
+| 3 | Nguyễn Tấn Dũng | 2310561 | https://github.com/Tdung-silentguy | Member |
+| 4 | Đỗ Đình Thiên Phúc | 2212610 | https://github.com/TPhucs | Member |
+| 5 | Nguyễn Khánh Trinh | 2313579 | https://github.com/trinh-say-hi | Member |
+
+### Trạng thái trong Organization (GitHub)
+
+| GitHub | Org Role | Ghi chú |
+|---|---|---|
+| @Darius-UT | Owner | 2FA enabled |
+| @ido241117 | Member | 2FA enabled |
+| @Tdung-silentguy | Member | 2FA enabled |
+| @TPhucs | Member | 2FA enabled |
+| @trinh-say-hi | Member | 2FA enabled |
+
+---
+
+## 3) Cấu trúc workspace (Repositories)
+
+| Repo | Vai trò |
+|---|---|
+| `snap-or-slap-mobile` | Repo chính chứa source code ứng dụng |
+| `.github` | Org profile README + cấu hình chung |
+
+---
+
+## 4) Quy trình làm việc (Workflow)
+
+| Quy tắc | Mô tả |
+|---|---|
+| **Branch protection** | Nhánh `main` được bảo vệ; mọi thay đổi qua Pull Request |
+| **Pull Request** | Review trước khi merge, tránh push thẳng vào `main` |
+| **Project tracking** | Theo dõi công việc trên GitHub Projects (Scrum/Kanban + QA stages) |
+| **Docs-as-Code** | Báo cáo & tài liệu được viết bằng Markdown trên Wiki |
+
+---
+
+<div align="center">
+
+  <hr/>
+
+  <sub>
+    © SnapOrSlap Organization • Engineering workflow + Docs-as-Code.<br/>
+    Nội dung chi tiết về sản phẩm (Purpose/Goals/Scope/Flows) được chuẩn hoá trong Wiki của repo mobile.
+  </sub>
+
+  <br/><br/>
+
+  <a href="#top">⬆️ Về đầu trang</a>
+
 </div>
