@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/snap-or-slap/.github/main/assets/logo.png" alt="SnapOrSlap Logo" width="140" />
+  <img src="assets/snap-or-slap-logo.svg" alt="SnapOrSlap Logo" width="140" />
 
   # SnapOrSlap (SOS)
 
@@ -73,7 +73,7 @@
 |---|---|
 | **Branch protection** | Nhánh `main` được bảo vệ; mọi thay đổi qua Pull Request |
 | **Pull Request** | Review trước khi merge, tránh push thẳng vào `main` |
-| **Project tracking** | Theo dõi công việc trên GitHub Projects (Scrum/Kanban + QA stages) |
+| **Project tracking** | Theo dõi công việc trên GitHub Projects (Scrum) |
 | **Docs-as-Code** | Báo cáo & tài liệu được viết bằng Markdown trên Wiki |
 
 ---
