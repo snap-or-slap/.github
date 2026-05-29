@@ -18,6 +18,8 @@
   <a href="https://github.com/snap-or-slap/snap-or-slap-mobile">Repo Mobile</a>
   •
   <a href="https://github.com/snap-or-slap/.github">Repo .github</a>
+  •
+  <a href="backend-docs.md">Backend Docs</a>
 
 </div>
 
@@ -31,6 +33,7 @@
 | **Mobile Repository (source code)** | https://github.com/snap-or-slap/snap-or-slap-mobile | Codebase chính (iOS/Android) |
 | **Wiki (Documentation)** | https://github.com/snap-or-slap/snap-or-slap-mobile/wiki | Báo cáo Assignment + tài liệu kỹ thuật |
 | **.github Repository** | https://github.com/snap-or-slap/.github | Org profile, templates, configs |
+| **Backend Docs** | ./backend-docs.md | Trạng thái backend, endpoint groups, deploy, CI/SonarCloud |
 
 ---
 
